@@ -20,6 +20,9 @@ Evaluación técnica de la paridad (peg) de activos digitales mediante criterios
     * Identificación de puntos fuera de tolerancia (Out of Tolerance - OOT).
     * Análisis de recuperación ante eventos de estrés sistémico.
 
+![Control chart](assets/chart.png)
+
+
 ## Requisitos
 * Python 3.x
 * Pandas
@@ -55,6 +58,9 @@ The analysis follows the **FI-EST-004** feasibility study framework, focusing on
 
 ## Key Findings
 The protocol identifies **USDC** as the asset with the highest conformity rate and lowest volatility during the audited period, demonstrating superior resilience during high-volatility events.
+
+
+![Control chart](assets/chart.png)
 
 ## Requirements
 * Python 3.9+
